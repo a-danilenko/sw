@@ -1,0 +1,7 @@
+export default function Planets() {
+  return (
+    <div>
+      <p>Planets</p>
+    </div>
+  )
+}
